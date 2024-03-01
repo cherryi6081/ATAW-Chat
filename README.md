@@ -6,4 +6,4 @@
 </p>
 <img src="doc/preview/图片22( 首页界面).png">
 #### Account information statistics
-![GitHub账户信息统计](https://github-stats.ubrong.com/api/top-langs/?username=cherryi6081&ahow_icons=true)
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=cherryi6081&show_icons=true)
