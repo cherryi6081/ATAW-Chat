@@ -44,9 +44,11 @@
   But you can't friend yourself.
   
 ### Create a group chat
-    ![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片8.png)
-    Then you can receive the latest news of group messages in real time.
-    ![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片9.png)
+ ![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片8.png)
+ 
+ Then you can receive the latest news of group messages in real time.
+ 
+![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片9.png)
     
 ### Send group file
  ![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片10.png)
