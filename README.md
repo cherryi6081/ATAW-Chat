@@ -8,6 +8,7 @@
   
 ## Module structure
  _The whole design can be roughly divided into the server side and the client side. The function of the server side is relatively simple, and only the message management and forwarding of the client side are done. Database read and write, etc. The client is relatively rich. Including login, registration, friend management, group management, tcp message management, database management_
+ 
  ![Screenshot of ATAW-Chat's module structure](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/module.png)
  
 ## Requirements
@@ -21,6 +22,7 @@
  
  ### log in page
   ![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片1.png)
+  
   Fill in your account password according to the input box in the login interface shown in the above picture:
   > Username: Enter the id of the account (not the user name)
 
@@ -30,6 +32,7 @@
    
 ### server page
    ![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片2.png)
+   
    Configure the server IP address, port number, and file port number.
    
 ### Establish server connection page
@@ -37,6 +40,7 @@
   
 ### Add friends
   ![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片7.png)
+  
   But you can't friend yourself.
   
 ### Create a group chat
@@ -49,15 +53,24 @@
  ![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片11.png)
  
 ### Private chat
-Similarly, private conversations can be transferred files
- ![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片12.png)
- and also,you can send your favorite memes to enhance the atmosphere of your chat (it is not possible to add custom memes at present, it is under development...)
- ![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片13.png)
 Similarly, private conversations can be transferred files.
+
+ ![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片12.png)
+ 
+ and also,you can send your favorite memes to enhance the atmosphere of your chat (it is not possible to add custom memes at present, it is under development...)
+ 
+ ![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片13.png)
+ 
+Similarly, private conversations can be transferred files.
+
  ![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片14.png)
+ 
 In order to make the function more diversified, we specially implemented the instant screenshot function.
+
 ![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片15.png)
+
 Weather cards are also added.
+
 ![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片16.png)
 
 ### Server management
