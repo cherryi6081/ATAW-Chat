@@ -60,8 +60,10 @@ Weather cards are also added.
 ![Screenshot of ATAW-Chat Server](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片20.png)
 ![Screenshot of ATAW-Chat Server](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片21.png)
 
-[![Star History Chart](https://star-history.com/#cherryi6081/ATAW-Chat&Date)]
-#### ⚡ Visitor count:
+#### Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=cherryi6081/ATAW-Chat&type=Date)](https://star-history.com/#cherryi6081/ATAW-Chat&Date)
+
+#### ⚡ Visitor count
 ![visitor count](https://profile-counter.glitch.me/ATAW-Chat/count.svg)
 #### Account information statistics:
 ![GitHub information count](https://github-stats.ubrong.com/api?username=cherryi6081&show_icons=true)
