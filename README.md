@@ -12,7 +12,7 @@ _The whole design can be roughly divided into the server side and the client sid
  ### log in 
   ![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片1.png)
   Fill in your account password according to the input box in the login interface shown in the above picture:
-  > Account entry box: Enter the id of the account (not the user name)
+  > Username: Enter the id of the account (not the user name)
 
   > Password: Enter the password corresponding to the account
 #### Account information statistics:
