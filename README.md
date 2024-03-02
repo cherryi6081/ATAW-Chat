@@ -12,7 +12,7 @@
  ![Screenshot of ATAW-Chat's module structure](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/module.png)
  
 ## Requirements
-+ Qt Core, Qt Quick, Qt QML, Qt ShaderTool, Qt 5 Compatibility Module. (**Essential**)
++ Qt Core, Qt Quick, Qt Widgets, Qt ShaderTool, Qt 5 Compatibility Module. (**Essential**)
 + Qt LinguistTool (optional,for translations)
 + Qt Svg (optional, however essential for Qt 5)
   
@@ -55,11 +55,10 @@
  ![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片11.png)
  
 ### Private chat
-Similarly, private conversations can be transferred files.
 
- ![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片12.png)
+![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片12.png)
  
- and also,you can send your favorite memes to enhance the atmosphere of your chat (it is not possible to add custom memes at present, it is under development...)
+and also,you can send your favorite memes to enhance the atmosphere of your chat (it is not possible to add custom memes at present, it is under development...)
  
  ![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片13.png)
  
