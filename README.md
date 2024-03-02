@@ -27,7 +27,7 @@
    
 ### Establish server connection page
   ![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片3.png)
-  [![Star History Chart](https://api.star-history.com/svg?repos=zhuzichu520/FluentUI&type=Date)]
+  
 ### Add friends
   ![Screenshot of ATAW-Chat](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片7.png)
   But you can't friend yourself.
@@ -60,7 +60,7 @@ Weather cards are also added.
 ![Screenshot of ATAW-Chat Server](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片20.png)
 ![Screenshot of ATAW-Chat Server](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/图片21.png)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zhuzichu520/FluentUI&type=Date)]
+[![Star History Chart](https://star-history.com/#cherryi6081/ATAW-Chat&Date)]
 #### ⚡ Visitor count:
 ![visitor count](https://profile-counter.glitch.me/ATAW-Chat/count.svg)
 #### Account information statistics:
