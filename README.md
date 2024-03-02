@@ -14,7 +14,7 @@
 + Qt Core, Qt Quick, Qt QML, Qt ShaderTool, Qt 5 Compatibility Module. (**Essential**)
 + Qt LinguistTool (optional,for translations)
 + Qt Svg (optional, however essential for Qt 5)
-+ 
+  
 ## ⚽ Get started
 
  ## Supported functions
@@ -74,4 +74,4 @@ Weather cards are also added.
 ![visitor count](https://profile-counter.glitch.me/ATAW-Chat/count.svg)
 #### Account information statistics:
 ![GitHub information count](https://github-stats.ubrong.com/api?username=cherryi6081&show_icons=true)
-#### 📑 Co-developers:@OY-YH
+#### 📑 Co-developers: @OY-YH @heluxi
