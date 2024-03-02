@@ -10,6 +10,13 @@
  _The whole design can be roughly divided into the server side and the client side. The function of the server side is relatively simple, and only the message management and forwarding of the client side are done. Database read and write, etc. The client is relatively rich. Including login, registration, friend management, group management, tcp message management, database management_
  ![Screenshot of ATAW-Chat's module structure](https://github.com/cherryi6081/ATAW-Chat/blob/main/doc/preview/module.png)
  
+## Requirements
++ Qt Core, Qt Quick, Qt QML, Qt ShaderTool, Qt 5 Compatibility Module. (**Essential**)
++ Qt LinguistTool (optional,for translations)
++ Qt Svg (optional, however essential for Qt 5)
++ 
+## ⚽ Get started
+
  ## Supported functions
  
  ### log in page
